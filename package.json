@@ -1,0 +1,24 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "\"my studing file\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anurag000-rgb/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anurag000-rgb/practice/issues"
+  },
+  "homepage": "https://github.com/Anurag000-rgb/practice#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
